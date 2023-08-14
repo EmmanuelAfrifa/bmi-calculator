@@ -21,8 +21,8 @@ This is a solution to the [Body Mass Index Calculator challenge on Frontend Ment
 ![Screenshot of the webpage](./images/Web%20capture_14-8-2023_5364_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/EmmanuelAfrifa/bmi-calculator)
+- [Deployed site](https://bmi-calculator-sol.netlify.app/)
 
 ## Process
 ### Tools Used
